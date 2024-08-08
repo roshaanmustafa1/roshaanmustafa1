@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Roshaan Moeez Mustafa</h1>
 <h3 align="center">A passionate frontend developer from Pakistan but currently I am in UAE</h3>
 
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flottiefiles.com%2Fanimations%2Fweb-development-wPWwuRFmPs&psig=AOvVaw33_to1EQ9L26ecmOGIWy09&ust=1723189894796000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKiltOL05IcDFQAAAAAdAAAAABAE">
+<img align="right" alt="Coding" width="400" src="https://github.com/roshaanmustafa1/roshaanmustafa1/blob/main/lsQS6q92QV.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roshaanmustafa1&label=Profile%20views&color=0e75b6&style=flat" alt="roshaanmustafa1" /> </p>
 
